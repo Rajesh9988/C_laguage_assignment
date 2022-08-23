@@ -1,0 +1,2 @@
+
+    // maltiplication of two arrays
